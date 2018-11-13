@@ -13,3 +13,25 @@ p {
   font-family: time new roman;
  
 }
+.nav{
+  background-color: Coral;
+  height:50px;
+  position: fixed; 
+  margin: 0% 70% 0% 70%;
+  top: 0; 
+  width:30%;
+}
+.nav li{
+  display: inline-block;
+}
+.nav ul{
+  margin: 0px;
+  text-align: center;
+}
+.nav a{
+  font-family: 'Bangers', cursive;
+  display: block;  
+  color: black;
+  text-align: center; 
+  padding: 10px 20px;
+  font-size: 180%;
