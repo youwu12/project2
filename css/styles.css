@@ -40,3 +40,11 @@ p {
   text-align: center; 
   padding: 10px 20px;
   font-size: 180%;
+}
+h2{
+  color: #FFFFFF;
+  text-transform: uppercase;
+  background-color: #4ea1d3;
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+}
