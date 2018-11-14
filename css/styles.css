@@ -1,5 +1,5 @@
 body {
-    background-color: Lightblue;
+    background-color: lightblue;
 }
 .title{
   text-align: center;
@@ -10,9 +10,7 @@ h1 {
   font-family: Charmonman
 }
 h2{
-
   font-family: cursive;
-
 }
 p {
   font-family: time new roman;
@@ -43,14 +41,14 @@ p {
   font-size: 180%;
 }
 h2{
-  color: #FFFFFF;
+  color: blue;
   text-transform: uppercase;
   background-color: #4ea1d3;
   padding: 0.5em;
   margin-bottom: 0.5em;
 }
 .section{
-  background: #FFFFFF;
+  background: white;
   text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -62,7 +60,7 @@ h2{
   float: none;
 }
 .section h2{
-  color: #FFFFFF;
+  color: drak blue;
   text-transform: uppercase;
   background-color: #4ea1d3;
   padding: 0.5em;
