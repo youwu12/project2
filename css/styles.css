@@ -48,6 +48,12 @@ h2{
   padding: 0.5em;
   margin-bottom: 0.5em;
 }
-section{
-  display: block;
+.section{
+  text-align: center;
+  height: 50%;
+  width: 90%;
+  border: 5px solid Lavender;
+  margin: auto;
+  padding-bottom: 70px;
+  padding-top: 20px;
 }
