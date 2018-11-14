@@ -25,6 +25,7 @@ p {
   margin: 0% 70% 0% 70%;
   top: 0; 
   width:30%;
+  z-index: 4;
 }
 .nav li{
   display: inline-block;
