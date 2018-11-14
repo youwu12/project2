@@ -48,3 +48,6 @@ h2{
   padding: 0.5em;
   margin-bottom: 0.5em;
 }
+section{
+  display: block;
+}
